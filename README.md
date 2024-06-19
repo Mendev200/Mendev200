@@ -1,6 +1,8 @@
-<h1 style="text-align: center;">
+![Banner](assets/github-banner.png)
+
+<!-- <h1 style="text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+World;" />
-</h1>
+</h1> -->
 
 <h3>🧠 I'm a web and mobile web developer</h3>
 
@@ -21,10 +23,10 @@
   <a href="mailto:irca.mendev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-<!--  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/m%C3%A9n%C3%A9lick-irca-2738b518a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+<!--  <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
