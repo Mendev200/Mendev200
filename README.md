@@ -36,7 +36,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,symfony" /><br>
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs" /><br>
 </div>
 
 <br/>
